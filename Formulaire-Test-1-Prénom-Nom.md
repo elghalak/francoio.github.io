@@ -6,7 +6,7 @@ output: html_document
 ** **
 
 ##### Prénom Nom Groupe
-
+Karima ELGHALABI Groupe2
 
 
 ##### Question 1
@@ -15,7 +15,12 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** 
+$P=0.98^{10}$
+  =0,817
+L'esperance est:
+ E=0,98x240
+  =196,1
 
 ##### Question 2
 
@@ -23,7 +28,11 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P(N=1)= 0.0625	
+      P(N=2)=0.125
+      P(N=3)=0.1875
+      P(N=4)=0.25
+
 
 ##### Question 3
 
@@ -31,7 +40,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P=2/3
 
 ##### Question 4
 
@@ -39,7 +48,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P=1/2
 
 ##### Question 5
 
